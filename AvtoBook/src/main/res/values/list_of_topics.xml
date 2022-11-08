@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="lec00">    Содержание</string>
+    <string name="lec01">    История</string>
+    <string name="lec11">    ДВС</string>
+    <string name="lec15">    Строение автомобиля</string>
+    <string name="prog">     Производители</string>
+
+</resources>
